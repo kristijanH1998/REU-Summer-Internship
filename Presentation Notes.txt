@@ -1,0 +1,15 @@
+SLIDE 2: -decentralized-no centralized network controllers (access points), but coverage being provided by each hotspot
+	-IoT-Internet of Things (smart devices (smartphones, smartwatches, smart security systems), medical sensors, etc.); devices that connect
+	and exchange data with other network-compatible devices on the Internet
+	-no need for satellite detection to verify device location
+	-Miners who are providing coverage in a cryptographically verified time and location submit their proof-of-coverage; they are ranked 
+	by the quality of their proof, and accordingly elected to a consensus group at a fixed epoch
+        
+SLIDE 3:-Blocks are formed from transactions being sent from regular miners to consensus group member miners, who append blocks in the blockchain,
+	therefore the Blockchain serves as a history of all data transactions on the Helium network.
+	-Devices pay for sending data to and receiving data from the network
+	-HNT is a crypto currency (like Bitcoin), it can be burned to get DC (data credits), which have a fixed US dollar value
+
+SLIDE 7:-information such as reports on nodes (hexes) hnt earnings and data transfers, users/subscribers connections to the nodes and transfer of data,
+reports about nodes that earn HNT from mining
+ 

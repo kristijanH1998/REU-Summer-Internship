@@ -1,0 +1,31 @@
+https://nordicapis.com/5-examples-of-apis-we-use-in-our-everyday-lives/
+
+https://realpython.com/python-requests/        LEFT OFF READING: Query String Parameters
+
+
+
+
+https://github.com/tomtobback/helium-data-traffic     PROBABLY USELESS
+
+
+
+
+***https://github.com/novalabsxyz/blockchain-api
+   https://www.reddit.com/r/HeliumNetwork/comments/gydn6r/python_code_for_pulling_hotspot_data_from/
+   https://documenter.getpostman.com/view/8776393/SVmsTzP6
+
+   https://docs.helium.com/api/console/
+   https://docs.helium.com/api/blockchain/introduction
+
+   https://www.w3schools.com/python/python_json.asp (READ)
+   https://github.com/evandiewald/helium_gps/blob/master/helium_hotspot_analysis.py
+   https://stackoverflow.com/questions/12788217/how-to-extract-a-single-value-from-json-response
+   https://hntrewards.xyz/
+   https://www.heliumboard.com/index
+   https://www.byteacademy.co/blog/time-series-python (READ)
+   https://h3geo.org/docs/api/indexing
+   https://www.tools4noobs.com/online_tools/hash/
+   https://www.markdownguide.org/cheat-sheet/
+   https://pandas.pydata.org/pandas-docs/version/0.25.0/reference/api/pandas.DataFrame.plot.scatter.html
+
+   https://docs.helium.com/mine-hnt/data-only-hotspots/

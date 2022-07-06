@@ -1,0 +1,7 @@
+-public keys for all participants are stored in the blockchain
+-as number of devices and networks increases, noise occurs -> coexistence performance
+-frequency hopping schemes as cheaper alternative to more expensive hardware parts (radios) -> does this increase the compatible
+frequency range too much?
+-possible fabrication of Hotspot geolocation information
+-Routers= internet-deployed applications; they route data packets received from Devices via Hotspots to HTTP or MQTT endpoint
+(to the Internet)
