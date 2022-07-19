@@ -20,25 +20,30 @@ Week 5: - Researched Pandas library in Python, practiced its syntax and examples
 	  Managed to create successive HTTPS calls to Blockchain API using the Cursor code and a loop in Python.
 
 Goals:
-1)Nodes Data Transfers and Nodes HNT earnings : Hotspot Activity
+1)Nodes Data Transfers and Nodes HNT earnings : Hotspot Activity     (done)
 2)User/subscribers connections to nodes and data transfers: Activity for Account
-3)Nodes that earn HNT from mining (+ranking, if possible):
+3)Nodes that earn HNT from mining (+ranking, if possible):  (use total rewards per hotspot Blockchain API request)
 
 *Rewards on the rewards list in Helium Explorer correspond to each rewards_v2 value on the HTTPS request (hotspot/activity) output 
 *To get results for specific query parameters in HTTPS requests, first enter the parameter in HTTPS request, then copy the output cursor and copy it 
 back to HTTPS to get the desired result
 
 Next:
-TOTAL EARNINGS FOR EACH HOTSPOTS
-DATARATE/DATA TRANSFER
-UPLOAD JUPYTER NOTEBOOKS, NOTEPAD FILES TO GITHUB
+TOTAL EARNINGS (REWARDS) FOR EACH HOTSPOTS (CUMULATIVE, LINE GOES UP), PLOT MULTIPLE (SEVERAL) HOTSPOTS IN THE SAME GRAPH    (done)
+DATARATE/DATA TRANSFER (CUMULATIVE, LINE GOES UP), PLOT MULTIPLE (SEVERAL) HOTSPOTS IN THE SAME GRAPH   (done)    
+DATA TRANSFER RELATED TO POC VS DATA TRANSFER (PACKETS)   (done)
+
+
+
 SIZE/AMOUNT OF DATA BEING SENT IN TRANSACTIONS
 MINI STEEL WEASEL : DATA PACKETS TRANSACTIONS
 
-TRY TO COLLECT DATA BY FRIDAY (7/8); MEET ON THURSDAY (7/7) AT 1 PM
-
-FIND PERCENTAGE OF HOTSPOT AREA OF HOW MANY HOTSPOTS PROVIDE DATA TRANSFER/HOW MANY PROVIDE POC REWARDS
-PLOT AMOUNT OF DATA TRANSFERRED FOR THE AREA
-PLOT AMOUNT OF DATA PER HOTSPOT THAT TRANSFERS DATA
+FIND PERCENTAGE OF HOTSPOT AREA OF HOW MANY HOTSPOTS PROVIDE DATA TRANSFER/HOW MANY PROVIDE POC REWARDS   (done)
+PLOT AMOUNT OF DATA TRANSFERRED FOR THE AREA (WHOLE METRO/URBAN AREAS)
+PLOT AMOUNT OF DATA PER HOTSPOT THAT TRANSFERS DATA	(done)
 EXTRA: ENVIRONMENTAL VARIABLES
-PUSH ALL FILES ON THE REPO FOR SHARED USE
+
+EACH DATA PACKET EQUATES TO 24 BYTES AND 1 DC EARNED
+
+STATE CHANNEL CLOSE - DEMAND PERSPECTIVE
+REWARDS - 
