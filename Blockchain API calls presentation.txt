@@ -39,7 +39,7 @@ SIZE/AMOUNT OF DATA BEING SENT IN TRANSACTIONS
 MINI STEEL WEASEL : DATA PACKETS TRANSACTIONS
 
 FIND PERCENTAGE OF HOTSPOT AREA OF HOW MANY HOTSPOTS PROVIDE DATA TRANSFER/HOW MANY PROVIDE POC REWARDS   (done)
-PLOT AMOUNT OF DATA TRANSFERRED FOR THE AREA (WHOLE METRO/URBAN AREAS)
+PLOT AMOUNT OF DATA TRANSFERRED FOR THE AREA (WHOLE METRO/URBAN AREAS)   (not needed)
 PLOT AMOUNT OF DATA PER HOTSPOT THAT TRANSFERS DATA	(done)
 EXTRA: ENVIRONMENTAL VARIABLES
 
@@ -47,3 +47,25 @@ EACH DATA PACKET EQUATES TO 24 BYTES AND 1 DC EARNED
 
 STATE CHANNEL CLOSE - DEMAND PERSPECTIVE
 REWARDS - 
+
+Questions:
+1) When should I start looking for articles and what should they be about (topics like blockchain, IoT, decentralized internet...)
+2) Do we need any more code for fetching data for the study? Or are we ready to start filling that presentation?
+3) I need a faster computer to find large amounts of data. Tried to use HPC but had issues with importing and installing libraries (panda, matplotlib...)
+
+For paper:
+POC, pandas/numpy/economic models
+-no need for many references like 19 
+-don't be concerned with page number
+-build an outline, think about a structure
+-use existing template for proper format
+-focus on supply/demand-burning HNT - > DC
+-blockchain being an open public ledger
+-revolutionary opportunity for researchers (all the data available from the blockchain through the API) in particular data science, cybersecurity researchers
+-make an outline first, so you know what to put in which section
+-more bullets, no too much text
+-instead of plt.show, you can save the png images of graphs
+-where is helium more used (which countries, where is there more demand)
+-flat line graphs-just say "no results"
+-include eqautions, but cite them, don't just copy/paste
+-think about tabular data, good for representation
