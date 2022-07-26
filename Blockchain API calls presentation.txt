@@ -22,7 +22,7 @@ Week 5: - Researched Pandas library in Python, practiced its syntax and examples
 Goals:
 1)Nodes Data Transfers and Nodes HNT earnings : Hotspot Activity     (done)
 2)User/subscribers connections to nodes and data transfers: Activity for Account
-3)Nodes that earn HNT from mining (+ranking, if possible):  (use total rewards per hotspot Blockchain API request)
+3)Nodes that earn HNT from mining (+ranking, if possible):  (done)
 
 *Rewards on the rewards list in Helium Explorer correspond to each rewards_v2 value on the HTTPS request (hotspot/activity) output 
 *To get results for specific query parameters in HTTPS requests, first enter the parameter in HTTPS request, then copy the output cursor and copy it 
