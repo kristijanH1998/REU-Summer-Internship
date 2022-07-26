@@ -29,3 +29,7 @@ https://github.com/tomtobback/helium-data-traffic     PROBABLY USELESS
    https://pandas.pydata.org/pandas-docs/version/0.25.0/reference/api/pandas.DataFrame.plot.scatter.html
 
    https://docs.helium.com/mine-hnt/data-only-hotspots/
+   https://howtothink.readthedocs.io/en/latest/PvL_H.html
+   https://www.helium.com/mine
+   https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value
+	
