@@ -32,4 +32,8 @@ https://github.com/tomtobback/helium-data-traffic     PROBABLY USELESS
    https://howtothink.readthedocs.io/en/latest/PvL_H.html
    https://www.helium.com/mine
    https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value
+   https://www.heliumboard.com/dc-burn
+https://explorer.helium.com/market
+https://explorer.helium.com/blocks
+https://www.heliumboard.com/dc-burn
 	
