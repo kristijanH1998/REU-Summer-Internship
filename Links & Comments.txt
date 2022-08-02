@@ -20,7 +20,10 @@ SELECTED FOR PAPER/POSTER:
 (READ) http://whitepaper.helium.com/                                  
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2506463
-https://www.mdpi.com/2073-4336/7/3/16
+https://www.mdpi.com/2073-4336/7/3/16      LEFT OFF:4. Data                -------->"early dynamics do not indicate the eventual outcome in this market"-so impossible to predict the future of Helium
+                                                                          "Bitcoin and the other digital currencies considered here are decentralized systems, i.e., have no central authority to validate and settle transactions. They use only cryptography (and a clever incentive system) to control transactions, manage the supply, and to prevent fraud. Hence, they often are referred to as cryptocurrencies. Once confirmed, all transactions are stored digitally and recorded in a “blockchain”, which can be thought of as an accounting system. Payments are validated by a decentralized network."
+									  "Despite the qualitative improvements introduced by other currencies, Bitcoin managed to hold and even increase its leading position in the markets."
+									  "In 2009, miners used standard home computers. By 2011, they discovered computer graphic cards could perform the calculation faster. The continuing competition for faster mining calculations created an arms race."                 
 (READ) https://ieeexplore.ieee.org/abstract/document/8029379              --------> Helium is a "public blockchain" type of network: Transactions visible to the public, any node can take part in the consensus process  
 (READ) https://arxiv.org/ftp/arxiv/papers/1906/1906.11078.pdf                    --------> "Lightweight node" corresponds to the "Light Hotspot" in the Helium documentation (https://docs.helium.com/mine-hnt/light-hotspots)
                                                                                     Proof of work = Proof of coverage in Helium   
