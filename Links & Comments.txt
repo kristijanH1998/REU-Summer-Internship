@@ -2,13 +2,12 @@
 
 
 
-https://d1wqtxts1xzle7.cloudfront.net/60715489/Understanding_Blockchain_Technology20190926-26770-147v9qi-with-cover-page-v2.pdf?Expires=1658565014&Signature=dEdQ8pnYnam5zqwb~77egnoCKPFSdwgiDJLjihhCrrDJ1LgM8rKBAkzBs1cBv3N46v-iMCD6FALgNWDvTOvC76iSWhoFksrrq~EbKYGfBSqUeJ8jHjBFiaJ8HB51l9ev0ZN0M5RfBzrOoNp60wmzieImrxRY48Rp0plI-7VtGn47QkGUJPW-f7YNAIWGYr8yeTstTBEqWPmMGeiv0ip7IDRLs2YgKWl66AZ7R7550JkkYqjVOOZKEaZdAHUjhPH1J9qGLrwG548Fa6P6c-6-N6dwfZP41EzLS2u4QS~IyVVezZzNQeGYsVkC~4xON0oqoYRnYvCWllWxqkzwmos2RA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
-https://ieeexplore.ieee.org/abstract/document/8758979
-https://ieeexplore.ieee.org/abstract/document/8386948
-https://jit.ndhu.edu.tw/article/view/2217
-https://link.springer.com/article/10.1007/s10796-014-9492-7
-https://link.springer.com/article/10.1007/s12599-015-0383-3
-https://link.springer.com/article/10.1007/s10796-014-9489-2
+
+(SKIP) https://ieeexplore.ieee.org/abstract/document/8758979  (https://arxiv.org/pdf/1905.06022.pdf)
+(SKIP) https://ieeexplore.ieee.org/abstract/document/8386948
+(SKIP) https://jit.ndhu.edu.tw/article/view/2217
+(SKIP) https://link.springer.com/article/10.1007/s10796-014-9492-7
+
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526163
 
 
@@ -19,18 +18,31 @@ https://www.helium.com/mine
 SELECTED FOR PAPER/POSTER:
 (READ) http://whitepaper.helium.com/                                  
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2506463
-https://www.mdpi.com/2073-4336/7/3/16      LEFT OFF:4. Data                -------->"early dynamics do not indicate the eventual outcome in this market"-so impossible to predict the future of Helium
+
+(READ) https://www.mdpi.com/2073-4336/7/3/16 (or https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2506463)               -------->"early dynamics do not indicate the eventual outcome in this market"-so impossible to predict the future of Helium
                                                                           "Bitcoin and the other digital currencies considered here are decentralized systems, i.e., have no central authority to validate and settle transactions. They use only cryptography (and a clever incentive system) to control transactions, manage the supply, and to prevent fraud. Hence, they often are referred to as cryptocurrencies. Once confirmed, all transactions are stored digitally and recorded in a “blockchain”, which can be thought of as an accounting system. Payments are validated by a decentralized network."
 									  "Despite the qualitative improvements introduced by other currencies, Bitcoin managed to hold and even increase its leading position in the markets."
-									  "In 2009, miners used standard home computers. By 2011, they discovered computer graphic cards could perform the calculation faster. The continuing competition for faster mining calculations created an arms race."                 
+									  "In 2009, miners used standard home computers. By 2011, they discovered computer graphic cards could perform the calculation faster. The continuing competition for faster mining calculations created an arms race."
+									  Refer to Reinforcement and Substitution Effects (compare with HNT).
+									  "Prices should not only reflect other variables that market participants may observe (e.g., the transactions recorded in Bitcoin’s blockchain) but also reflect the expectations of anything that may influence Bitcoin’s value in the future, for example current and expected future strength of the network effects."                 
 (READ) https://ieeexplore.ieee.org/abstract/document/8029379              --------> Helium is a "public blockchain" type of network: Transactions visible to the public, any node can take part in the consensus process  
 (READ) https://arxiv.org/ftp/arxiv/papers/1906/1906.11078.pdf                    --------> "Lightweight node" corresponds to the "Light Hotspot" in the Helium documentation (https://docs.helium.com/mine-hnt/light-hotspots)
                                                                                     Proof of work = Proof of coverage in Helium   
 (READ) https://ieeexplore.ieee.org/abstract/document/8343163
 (READ) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3142022
 (READ) https://ieeexplore.ieee.org/abstract/document/8287055
-https://multicoin.capital/2018/02/13/new-models-utility-tokens/
+
+(READ) https://www.researchgate.net/publication/276439592_Internet_of_Things
+https://link.springer.com/article/10.1007/s10796-014-9489-2 (http://anurag-agarwal.com/ResearchPapers/2015ISFrontiersIOTSurveyWhitmoreAgarwalXu.pdf)
+
+
+
+
+
+
+
+
+
 https://en.wikipedia.org/wiki/Internet_of_things   
 
 poc-voting mechanism 
