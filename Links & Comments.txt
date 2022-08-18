@@ -8,32 +8,42 @@
 (SKIP) https://jit.ndhu.edu.tw/article/view/2217
 (SKIP) https://link.springer.com/article/10.1007/s10796-014-9492-7
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526163
-
 
 WEBSITE:
 https://docs.helium.com/blockchain/helium-token/
 https://www.helium.com/mine
 
 SELECTED FOR PAPER/POSTER:
-(READ) http://whitepaper.helium.com/                                  
+[1](READ) http://whitepaper.helium.com/
+	Comments: "Narrowband allows for extremely long-range communications, with data rates that scale both up and down
+	depending on the density of Hotspots." means that if an area is not densely scattered with hotspots, data transmission rates in it might be too
+	low. An isolated device that cannot connect to many nearby hotspots will then have to send or receive data at low speeds. This means that if 
+	more than a few devices require data transfer in a remote area with few hotspots, their transmission rates will be lower than for example in the
+	middle of an area with a dense network of hotspots.
 
 
-(READ) https://www.mdpi.com/2073-4336/7/3/16 (or https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2506463)               -------->"early dynamics do not indicate the eventual outcome in this market"-so impossible to predict the future of Helium
+
+
+
+
+                               
+
+
+[2](READ) https://www.mdpi.com/2073-4336/7/3/16 (or https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2506463)               -------->"early dynamics do not indicate the eventual outcome in this market"-so impossible to predict the future of Helium
                                                                           "Bitcoin and the other digital currencies considered here are decentralized systems, i.e., have no central authority to validate and settle transactions. They use only cryptography (and a clever incentive system) to control transactions, manage the supply, and to prevent fraud. Hence, they often are referred to as cryptocurrencies. Once confirmed, all transactions are stored digitally and recorded in a “blockchain”, which can be thought of as an accounting system. Payments are validated by a decentralized network."
 									  "Despite the qualitative improvements introduced by other currencies, Bitcoin managed to hold and even increase its leading position in the markets."
 									  "In 2009, miners used standard home computers. By 2011, they discovered computer graphic cards could perform the calculation faster. The continuing competition for faster mining calculations created an arms race."
 									  Refer to Reinforcement and Substitution Effects (compare with HNT).
 									  "Prices should not only reflect other variables that market participants may observe (e.g., the transactions recorded in Bitcoin’s blockchain) but also reflect the expectations of anything that may influence Bitcoin’s value in the future, for example current and expected future strength of the network effects."                 
-(READ) https://ieeexplore.ieee.org/abstract/document/8029379              --------> Helium is a "public blockchain" type of network: Transactions visible to the public, any node can take part in the consensus process  
-(READ) https://arxiv.org/ftp/arxiv/papers/1906/1906.11078.pdf                    --------> "Lightweight node" corresponds to the "Light Hotspot" in the Helium documentation (https://docs.helium.com/mine-hnt/light-hotspots)
+[3](READ) https://ieeexplore.ieee.org/abstract/document/8029379              --------> Helium is a "public blockchain" type of network: Transactions visible to the public, any node can take part in the consensus process  
+[4](READ) https://arxiv.org/ftp/arxiv/papers/1906/1906.11078.pdf                    --------> "Lightweight node" corresponds to the "Light Hotspot" in the Helium documentation (https://docs.helium.com/mine-hnt/light-hotspots)
                                                                                     Proof of work = Proof of coverage in Helium   
-(READ) https://ieeexplore.ieee.org/abstract/document/8343163
-(READ) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3142022
-(READ) https://ieeexplore.ieee.org/abstract/document/8287055
+[5](READ) https://ieeexplore.ieee.org/abstract/document/8343163
+[6](READ) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3142022          ---------> Use this: 1.1 Demand Side
+[7](READ) https://ieeexplore.ieee.org/abstract/document/8287055
 
-(READ) https://www.researchgate.net/publication/276439592_Internet_of_Things
-https://link.springer.com/article/10.1007/s10796-014-9489-2 (http://anurag-agarwal.com/ResearchPapers/2015ISFrontiersIOTSurveyWhitmoreAgarwalXu.pdf)
+[8](READ) https://www.researchgate.net/publication/276439592_Internet_of_Things
+[9] https://d1wqtxts1xzle7.cloudfront.net/48790442/ISOC-IoT-Overview-20151014_0-with-cover-page-v2.pdf?Expires=1660798010&Signature=BcxuFkadpfBH37TDOZhK950jMkk1GHHlYZbzSrALw0WmrEsda8nbeyYHXNUfx6UefEnC6kZ69lkyyvMK~1Bg-wLkpJDdecY67vu1b7usBqUC~0VmzpdNz0ddJ5x0LXABn-H7EEkdkrVDvCv4OUB-R3M7VdItRkYj07maut24jmarqgzDIqI3-GV8G6hA9pk99bdJi~9bbccWWfwb1V9gIq2WC3eZzMBe4cbXOsggVwmZnuV8NR-~~Bel6dCFpcK4O1VgAWtRvjDpkAf-tAi1qUcUuXP2rLEbJzGu~XXe2FHHUIAmKDa-eq3eTtJNJ9~2gkCqgtUCTZKDjPoXKYC1cQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 
 
 
