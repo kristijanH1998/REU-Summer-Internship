@@ -3,13 +3,18 @@ Big data mining research project for Cybersecurity Research in a Multidisciplina
 
 ## Table of Contents
 - [Description](#description)
-- [How to Set up Coding Environment](#how-to-run-the-project)
+- [How to Set up Programming Environment](#how-to-set-up-programming-environment)
 - [](#)
 - [Research Paper, Presentation,...](#)
 
 ## Description
-
 #### Overview and Technologies used
+* Big Data mining and in-depth research on economic demand and network traffic of the Helium Network, a disitributed and decentralized Internet of Things (IoT) network, which runs on a digital ledger of transactions called the Blockchain, with native cryptocurrency abbreviated as "HNT". Since Helium Blockchain is a public blockchain, data on all past transactions on the network is visible to the public
+* This research uses Python scripts with HTTP requests to Helium Blockchain API to access the Blockchain's database and collect data on network traffic and HNT cryptocurrency data mining statistics, to study Helium network's dynamics, economic supply and demand
+* Programming environment chosen for this project was Anaconda with Jupyter Notebook, while Python was selected as the most suitable language
+* Requests library was used to send HTTP requests to fetch data from the blockchain, Matplotlib library was used to represent the data in either numerical tables or visually as graphs, Numpy library helped with its tools for array manipulation, JSON was used to store data in a readable form, Time and Datetime libraries were utilized to work with time parameters, and finally Pickle was used for converting output objects into byte streams, stored in .pkl files for further analysis
+* The demand for the Helium network’s coverage was analyzed by observing two relevant variables: HNT rewards to hotspots for various network services, and overall data traffic on the network
+
 
 #### Challenges faced during development
 
@@ -19,7 +24,7 @@ Big data mining research project for Cybersecurity Research in a Multidisciplina
 
 #### Things I learned
 
-## How to Set up Coding Environment
+## How to Set up Programming Environment
 1. Follow instructions on [this](https://github.com/git-guides/install-git) link to install Git
 2. Choose the location (directory) for the project repository, navigate to it with 'cd [directory-name]' terminal command and inside of it clone the project repository by running the command 'git clone https://github.com/kristijanH1998/REU-Summer-Internship.git' in your terminal
 3. Install Jupyter Notebook. Follow instructions on [this link](https://jupyter.org/install)
