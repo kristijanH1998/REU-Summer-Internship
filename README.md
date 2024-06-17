@@ -5,7 +5,7 @@ Big data mining research project for Cybersecurity Research in a Multidisciplina
 - [Description](#description)
 - [How to Set up Programming Environment](#how-to-set-up-programming-environment)
 - [Research Paper, Poster, Presentation, and Results](#research-paper-poster-presentation-and-results)
-- []()
+- [Credits](#credits)
 
 ## Description
 #### Overview and Technologies used
@@ -53,3 +53,8 @@ Code sample: cumulative graphs of average monthly number of data packets transfe
 ![Code Sample - Average Data Transfer per City](/results-screenshots/odu-helium-analysis9.png?raw=true "Code Sample - Average Data Transfer per City")
 
 ## Credits
+* This research experience was sponsored by the National Science Foundation and hosted by The Old Dominion University
+* Special thanks to my mentor and Senior Project Scientist at VMASC (Old Dominion University) Mr. Peter Foytik, who guided me throughout this research project. Mr. Foytik's [GitHub profile](https://github.com/pfoytik), and [LinkedIn profile](https://www.linkedin.com/in/peter-foytik-01ab2812/)
+* Special thanks to mentor Dr. Sachin Shetty. Mr. Shetty's [LinkedIn profile](https://www.linkedin.com/in/sachin-shetty-47467613/)
+* Special thanks to program directors, Dr. Chunsheng Xin and Dr. Khan Iftekharuddin, for the opportunity to participate in the research program 
+* All academic sources used for this project can be found in the 'References' section at the end of the project's [final paper](https://docs.google.com/document/d/1e3eJWykSwqRAiOo_efxFnnfB9gEqLwgV/edit?usp=sharing&ouid=118036694644451906663&rtpof=true&sd=true) 
