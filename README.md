@@ -47,5 +47,7 @@ Big data mining research project for Cybersecurity Research in a Multidisciplina
 * Screenshots of some results derived from the study are provided below:
 ![HNT Rewards in Miami, FL](/results-screenshots/odu-helium-analysis4.png?raw=true "HNT Rewards in Miami, FL")
 ![HNT Rewards in Topeka, KS](/results-screenshots/odu-helium-analysis2.png?raw=true "HNT Rewards in Topeka, KS")
+![Data Transfer vs. Other Services Per City](/results-screenshots/odu-helium-analysis8.png?raw=true "Data Transfer vs. Other Services Per City")
+![Cumulative Mean Data Transfer for Top 50 Hotspots Per City](/results-screenshots/odu-helium-analysis7.png?raw=true "Data Transfer vs. Other Services Per City")
 
 ## Credits
