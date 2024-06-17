@@ -49,5 +49,7 @@ Big data mining research project for Cybersecurity Research in a Multidisciplina
 ![HNT Rewards in Topeka, KS](/results-screenshots/odu-helium-analysis2.png?raw=true "HNT Rewards in Topeka, KS")
 ![Data Transfer vs. Other Services Per City](/results-screenshots/odu-helium-analysis8.png?raw=true "Data Transfer vs. Other Services Per City")
 ![Cumulative Mean Data Transfer for Top 50 Hotspots Per City](/results-screenshots/odu-helium-analysis7.png?raw=true "Data Transfer vs. Other Services Per City")
+Code sample: cumulative graphs of average monthly number of data packets transferred for a chosen number of hotspots, per city
+![Code Sample - Average Data Transfer per City](/results-screenshots/odu-helium-analysis9.png?raw=true "Code Sample - Average Data Transfer per City")
 
 ## Credits
