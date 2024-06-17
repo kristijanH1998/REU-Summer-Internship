@@ -41,11 +41,11 @@ Big data mining research project for Cybersecurity Research in a Multidisciplina
 6. Run Jupyter Notebook with command 'jupyter notebook' and select the .ipynb file from the repository directory with scripts you want to test by running their corresponding cells. Note: The Helium Blockchain API used as a data ledger for this project was retired on July 28, 2023. This essentially means that any script in this repository that contains an HTTP request sent to "https://api.helium.io/" will fail to fetch desired data, since this API does not exist anymore. More information on this change by Helium can be found [here](https://docs.helium.com/solana/migration/blockchain-api/). However, any script that uses data only from .pkl and/or .dat files (and contains no API calls to the Blockchain) can still be run for testing purposes (this stored data from the Blockchain was collected in the summer of 2022 for research purposes and saved in .pkl or .dat formats)
 
 ## Research Paper, Poster, Presentation, and Results
-* The paper I wrote for this research study can be found on (this link)[https://docs.google.com/document/d/1e3eJWykSwqRAiOo_efxFnnfB9gEqLwgV/edit?usp=sharing&ouid=118036694644451906663&rtpof=true&sd=true]
-* The poster I made for this project can be found (here)[https://docs.google.com/presentation/d/1L2tvWKAIFjRoeVKj8vxawBlwEcLpBivB/edit?usp=sharing&ouid=118036694644451906663&rtpof=true&sd=true]
-* The slides for the final presentation I gave at the end of the internship program can be accessed (here)[https://docs.google.com/presentation/d/1EP9JSGx_IGVwyFztLyxRJESCElC5qrW9DdnMKnJ87qU/edit?usp=sharing]
+* The paper I wrote for this research study can be found on [this link](https://docs.google.com/document/d/1e3eJWykSwqRAiOo_efxFnnfB9gEqLwgV/edit?usp=sharing&ouid=118036694644451906663&rtpof=true&sd=true)
+* The poster I made for this project can be found [here](https://docs.google.com/presentation/d/1L2tvWKAIFjRoeVKj8vxawBlwEcLpBivB/edit?usp=sharing&ouid=118036694644451906663&rtpof=true&sd=true)
+* The slides for the final presentation I gave at the end of the internship program can be accessed [here](https://docs.google.com/presentation/d/1EP9JSGx_IGVwyFztLyxRJESCElC5qrW9DdnMKnJ87qU/edit?usp=sharing)
 * Screenshots of some results derived from the study are provided below:
-HNT reward statistics for hotspots in Miami, Florida:
 ![HNT Rewards in Miami, FL](/results-screenshots/odu-helium-analysis4.png?raw=true "HNT Rewards in Miami, FL")
+![HNT Rewards in Topeka, KS](/results-screenshots/odu-helium-analysis2.png?raw=true "HNT Rewards in Topeka, KS")
 
 ## Credits
